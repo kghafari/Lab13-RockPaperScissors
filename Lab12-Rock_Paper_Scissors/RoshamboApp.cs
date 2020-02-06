@@ -47,7 +47,6 @@ namespace Lab12_Rock_Paper_Scissors
                         Console.WriteLine("Please make a valid selection (1, 2 or 3)");
                         break;
                 }
-
             }
         }
 
